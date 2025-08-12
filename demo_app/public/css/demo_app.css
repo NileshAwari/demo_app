@@ -1,0 +1,24 @@
+.demo-popup-content {
+    padding: 15px;
+}
+
+.demo-popup-content h4 {
+    color: #5e64ff;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e7e9ec;
+    padding-bottom: 10px;
+}
+
+.demo-popup-content p {
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.demo-popup-content strong {
+    color: #333;
+    font-weight: 600;
+}
+
+.demo-popup-content .btn {
+    margin-right: 10px;
+}

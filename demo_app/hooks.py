@@ -1,3 +1,6 @@
+
+from . import __version__ as app_version
+
 app_name = "demo_app"
 app_title = "Demo App"
 app_publisher = "Nilesh"
@@ -5,6 +8,9 @@ app_description = "Demo App For Test"
 app_email = "nilesh@tet.com"
 app_license = "gpl-3.0"
 
+
+app_include_css = "/assets/demo_app/css/demo_app.css"
+app_include_js = "/assets/demo_app/js/demo_popup.js"
 # Apps
 # ------------------
 
